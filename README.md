@@ -7,4 +7,8 @@
 
 
 
+
 # Estou alterando no repositorio local sem avisar o membro do github
+=======
+# Membro do github está alterando SEM AVISAR o outro membro que está no repositório local
+
